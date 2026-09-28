@@ -14,4 +14,5 @@ What technologies are used?
 
 What skills learned?
 
-=> we practice some git and github command . 
+=> we practice some git and github command .
+=> we have added also some css: we used flexboxes to better display the webpage content. 

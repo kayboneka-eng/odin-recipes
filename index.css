@@ -1,0 +1,31 @@
+
+
+.card{
+    background-image: url("images/kitchen.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+    border-radius: 20px;
+    padding-top: 20px;
+
+}
+ul{
+    list-style: none; 
+}
+ul li a{
+    color: rgb(0, 11, 17);
+    text-decoration: none;
+    line-height: 30px;
+    font-weight: 600;
+
+}
+.header{
+    color: rgb(38, 2, 53);
+    text-align: center;
+}
+.list{
+    text-align: center;
+
+}
